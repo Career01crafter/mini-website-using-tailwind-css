@@ -15,7 +15,7 @@ export default function Collections() {
     { src: "/image8.webp", alt: "Elegent Footwear", price: "$29.99" },
     { src: "/image9.avif", alt: "Gray Sport Shoes", price: "$19.99" },
     { src: "/image10.jpg", alt: "Running Shoes", price: "$39.99" },
-    { src: "/image11.jfif", alt: "Sneakers In pink", price: "$49.99" },
+    { src: "/image11.webp", alt: "High Heel Sneakers", price: "$49.99" },
     { src: "/image12.jpg", alt: "Comfort Shoes", price: "$59.99" },
   ];
 
